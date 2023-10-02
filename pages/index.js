@@ -4,28 +4,58 @@ import Advisor from './advisors';
 import Volunteers from './volunteers';
 import SRBPropertiesHome from './srbpropertieshome';
 import Stanging from './staging';
+import { Header } from 'components/index';
 
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-const IndexPage = () => {
+const home = () => {
     const router = useRouter();
     const parameter = router.query.parameter || 'default-value';
-
     if (parameter === 'home') {
-        return <HomePage />;
+        return (
+            <>
+                <Header />
+                <HomePage />;
+            </>
+        );
     } else if (parameter === 'advisor') {
-        return <Advisor />;
+        return (
+            <>
+                <Header />
+                <Advisor />
+            </>
+        );
     } else if (parameter === 'volunteers') {
-        return <Volunteers />;
+        return (
+            <>
+                <Header />
+                <Volunteers />
+            </>
+        );
     } else if (parameter === 'srbproperties') {
-        return <SRBPropertiesHome />;
+        return (
+            <>
+                <Header />
+                <SRBPropertiesHome />
+            </>
+        );
     } else if (parameter === 'staging') {
-        return <Stanging />;
+        return (
+            <>
+                <Header />
+                <Stanging />;
+            </>
+        );
     } else {
-        return <HomePage />;
+        return (
+            <>
+                <Header />
+                <HomePage />;
+            </>
+        );
     }
 };
 
-export default IndexPage;
+export default home;
 
 export async function getStaticProps({ locale }) {
     return {
