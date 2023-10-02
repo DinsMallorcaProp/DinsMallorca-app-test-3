@@ -8,7 +8,7 @@ import { Header } from 'components/index';
 
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 const home = () => {
-    const router = useRouter();
+    /* const router = useRouter();
     const parameter = router.query.parameter || 'default-value';
     if (parameter === 'home') {
         return (
@@ -52,7 +52,10 @@ const home = () => {
                 <HomePage />;
             </>
         );
-    }
+    } */
+    <>
+        <h1>hello world</h1>
+    </>;
 };
 
 export default home;
