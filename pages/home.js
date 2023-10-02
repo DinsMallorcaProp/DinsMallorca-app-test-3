@@ -17,6 +17,7 @@ import {
 const home = () => {
     return (
         <>
+            <Header />
             <Hero />
             <AdvisorsSection />
             <PropertiesForSaleSection />
