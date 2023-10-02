@@ -1,0 +1,91 @@
+{
+    "title": "Working with the heart on the hand",
+    "texto": "Our strength is in the people who will take care of helping you....",
+    "button": {
+        "title": "Advisors",
+        "url": "/advisors",
+        "target": "_self"
+    },
+    "imageLeftSide": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-olive-branch-left.webp",
+        "alt": "DinsMallarca Advisors Section - Olives Branch Image"
+    },
+    "imageRightSide": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-blue-heart.webp",
+        "alt": "DinsMallarca Advisors Section - Green Heart Image"
+    },
+    "advisorsGroupInfo": {
+        "title1": "Our strength",
+        "text1": "Our strength Our work is exclusive and personalized. We invite you to request an appointment where an advisor will become your representative to guarantee your purchase and sale.",
+        "imgBack1": {
+            "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-blue-heart.webp",
+            "alt": "DinsMallarca Sección Asesores - Imagen Corazón Verde"
+        },
+        "imgBack2": {
+            "url": "",
+            "alt": ""
+        },
+        "imgFront1": {
+            "url": "/assets/gallery/jpg/advisors/dm-local-team-2.jpg",
+            "alt": "Real Estate Advisors Group Picture"
+        },
+        "imgFront2": {
+            "url": "/assets/gallery/jpg/advisors/dm-local-team-3.jpg",
+            "alt": "Real Estate Advisors Group Picture"
+        }
+    },
+    "advisorsProfiles": {
+        "profile1": {
+            "name": "Mariano Montanari",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-mariano-profile-2.jpg",
+                "alt": "Mariano Montanari Picture"
+            },
+            "role": "Real Estate Advisor",
+            "cell": "Contact:+34627942564",
+            "whatsapp": {
+                "href": "https://wa.me/34627942564",
+                "target": "_blank"
+            }
+        },
+        "profile2": {
+            "name": "Gonzalo Rivas",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-gonzalo-profile-2.jpg",
+                "alt": "Gonzalo Rivas Picture"
+            },
+            "role": "Real Estate Advisor",
+            "cell": "Contact: +34635588782",
+            "whatsapp": {
+                "href": "https://wa.me/34635588782",
+                "target": "_blank"
+            }
+        },
+        "profile3": {
+            "name": "Romina Lodeiro",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-romina-profile-2.jpg",
+                "alt": "Romina Lodeiro Picture"
+            },
+            "role": "Real Estate Advisor",
+            "cell": "Contact: +34654655265",
+            "whatsapp": {
+                "href": "https://wa.me/34654655265",
+                "target": "_blank"
+            }
+        },
+        "profile4": {
+            "name": "Name: Carlos Fernandez",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-carlos-profile-2.jpg",
+                "alt": "Carlos Fernandez Picture"
+            },
+            "role": "Real Estate Advisor",
+            "cell": "Contact: +34646909770",
+            "whatsapp": {
+                "href": "https://wa.me/34646909770",
+                "target": "_blank"
+            }
+        }
+    }
+}

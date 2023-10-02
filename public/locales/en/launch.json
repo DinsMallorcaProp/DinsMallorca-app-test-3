@@ -1,0 +1,10 @@
+{
+    "launch": {
+        "title": "Welcome to Dinsmallorca Real State",
+        "text": "Our Website is coming soon. ",
+        "image": {
+            "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-webp",
+            "alt": "DinsMallorca Logo Image"
+        }
+    }
+}

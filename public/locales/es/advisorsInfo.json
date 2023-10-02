@@ -1,0 +1,91 @@
+{
+    "title": "Trabajando con el corazón en la mano",
+    "texto": "Nuestra fortaleza está en las personas que se ocuparán de ayudarte ....",
+    "button": {
+        "title": "Asesores",
+        "url": "/advisors",
+        "target": "_self"
+    },
+    "imageLeftSide": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-olive-branch-left.webp",
+        "alt": "DinsMallarca Sección Asesores - Imagen Ramas de Olivos"
+    },
+    "imageRightSide": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-blue-heart.webp",
+        "alt": "DinsMallarca Sección Asesores - Imagen Corazón Verde"
+    },
+    "advisorsGroupInfo": {
+        "title1": "Nuestra fortaleza",
+        "text1": "Nuestro trabajo es exclusivo y personalizado. Te invitamos a solicitar una cita donde donde un asesor se convertirá en tu representante para garantizar tu compra-venta.",
+        "imgBack1": {
+            "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-blue-heart.webp",
+            "alt": "DinsMallarca Sección Asesores - Imagen Corazón Verde"
+        },
+        "imgBack2": {
+            "url": "",
+            "alt": ""
+        },
+        "imgFront1": {
+            "url": "/assets/gallery/jpg/advisors/dm-local-team-2.jpg",
+            "alt": "Foto de grupo asesorres inmobiliariarios"
+        },
+        "imgFront2": {
+            "url": "/assets/gallery/jpg/advisors/dm-local-team-3.jpg",
+            "alt": "Foto de grupo asesorres inmobiliariarios"
+        }
+    },
+    "advisorsProfiles": {
+        "profile1": {
+            "name": "Mariano Montanari",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-mariano-profile-2.jpg",
+                "alt": "Foto de Mariano Montanari"
+            },
+            "role": "Asesor inmobiliario",
+            "cell": "Contacto: +34627942564",
+            "whatapp": {
+                "href": "https://wa.me/34627942564",
+                "target": "_blank"
+            }
+        },
+        "profile2": {
+            "name": "Gonzalo Rivas",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-gonzalo-profile-2.jpg",
+                "alt": "Foto de Gonzalo Rivas"
+            },
+            "role": "Asesor inmobiliario",
+            "cell": "Contacto: +34635588782",
+            "whatapp": {
+                "href": "https://wa.me/34635588782",
+                "target": "_blank"
+            }
+        },
+        "profile3": {
+            "name": "Romina Lodeiro",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-romina-profile-2.jpg",
+                "alt": "Foto de Romina Lodeiro"
+            },
+            "role": "Asesora inmobiliaria",
+            "cell": "Contacto: +34654655265",
+            "whatapp": {
+                "href": "https://wa.me/34654655265",
+                "target": "_blank"
+            }
+        },
+        "profile4": {
+            "name": "Carlos Fernandez ",
+            "picture": {
+                "url": "/assets/gallery/jpg/advisors/dm-carlos-profile-2.jpg",
+                "alt": "Foto de Carlos Fernandez"
+            },
+            "role": "Asesor inmobiliario",
+            "cell": "Contacto: +34646909770",
+            "whatapp": {
+                "href": "https://wa.me/34646909770",
+                "target": "_blank"
+            }
+        }
+    }
+}

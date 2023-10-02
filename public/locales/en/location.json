@@ -1,0 +1,33 @@
+{
+    "address": {
+        "street": "Carrer Joan Maragall 48",
+        "zipCode": "07006",
+        "city": "Palma, Illes Balears",
+        "country": "Spain"
+    },
+    "contact": {
+        "email": "info@dinsmallorca.com",
+        "cell": "+34871700001"
+    },
+
+    "workingHours": {
+        "days": "Monday - Friday",
+        "hours": "9:30–18:30"
+    },
+    "mapInfo": {
+        "type": "Point",
+        "lat": 39.56254,
+        "long": 2.6673,
+        "title": "DinsMallorca Properties Map",
+        "name": "DinsMallorca properties",
+        "description": "DinsMallorca properties"
+    },
+    "bgImg1": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-footer-plant.webp",
+        "alt": "DinsMallorca Footer Image - Green Plant"
+    },
+    "logoImg": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-logo.webp",
+        "alt": "DinsMallorca Logo Image"
+    }
+}

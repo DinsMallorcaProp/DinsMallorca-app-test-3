@@ -1,0 +1,29 @@
+{
+    "reviews": {
+        "title": "Conocer tu experiencia nos ayuda a crecer y mejorar",
+        "titleImage": {
+            "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-google.webp",
+            "alt": "Imagen del Titulo - Google"
+        },
+        "bgImage": {
+            "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-bamboo-plant.webp",
+            "alt": "Imagen de fondo - Planta de Bamboo"
+        },
+          "item1": {
+            "id": 1,
+            "src": "Google",
+            "opinions": "16 opiniones",
+            "date": "Hace mas de un mes...",
+            "name": "Andres Espi",
+            "review": "Trato personalizado! Lo recomiendo 100% tanto para comprar o vender , su profesionalidad no tiene precio! Gracias Mariano y Romi , gran equipo!!!!"
+        },
+        "item2": {
+            "id": 2,
+            "src": "Google",
+            "opinions": "3 opiniones",
+            "date": "Hace mas de un mes...",
+            "name": "Vanessa Amorin Pons",
+            "review": "Si buscas honestidad y cercanía a la hora de comprar o vender tu vivienda no me lo pensaría. Un equipo de profesionales maravillosos"
+        }
+    }
+}

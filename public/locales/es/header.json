@@ -1,0 +1,14 @@
+{
+    "iconEcologic": {
+        "text": "Ecológicos"
+    },
+    "title": "DinsMallorca",
+    "metas": {
+        "name:": "description",
+        "content": "DinsMallorca en Mallorca"
+    },
+    "links": {
+        "rel": "icon",
+        "href": "/assets/gallery/webp/dm-homepage/dinsmallorca-logo.webp"
+    }
+}

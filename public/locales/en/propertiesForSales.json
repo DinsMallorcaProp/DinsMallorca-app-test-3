@@ -1,0 +1,17 @@
+{
+    "title": "Sell",
+    "text": "¿ Do you Need Help to Sell your House ?",
+    "btn": {
+        "title": "Help",
+        "url": "/propertiesSales",
+        "target": "_self"
+    },
+    "rightSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-brown-doors.webp",
+        "alt": "Brown Doors Image - Sales Section"
+    },
+    "bgImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmmalorca-green-letter-logo.webp",
+        "alt": "DinsMallorca Logo Image - Sales Section"
+    }
+}

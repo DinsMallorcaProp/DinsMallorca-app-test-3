@@ -1,0 +1,16 @@
+.map-container {
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 2rem;
+    & .map-wrapper {
+        width: 60%;
+    }
+}
+.custom-zoom-control {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+}

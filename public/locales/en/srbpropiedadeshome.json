@@ -1,0 +1,29 @@
+{
+    "title": "Find your dream home",
+    "text1": "Without wasting your time or money?",
+    "text2": "How will we do it?",
+    "text3": "We find the best mortgage for you",
+    "text4": "We will visit only the homes that really fit you",
+    "text5": "We will protect your purchase and your capital to guarantee your peace of mind",
+    "text6": "Your Advisor",
+    "btnText1": "Here",
+    "btnText2": "Search",
+    "imgsInfo": {
+        "frontImg1": {
+            "src": "/assets/gallery/jpg/general/dm-green-doors.jpg",
+            "alt": "Green Doors - properties section"
+        },
+        "frontImg2": {
+            "src": "/assets/gallery/jpg/general/dm-full-logo.jpg",
+            "alt": "DinsMallorca Logo - properties section"
+        },
+        "backImg1": {
+            "src": "/assets/gallery/jpg/general/dm-house-white-living-room.jpg",
+            "alt": "white living room of a house  - properties section"
+        },
+        "backImg2": {
+            "src": "/assets/gallery/jpg/general/dm-blue-heart.jpg",
+            "alt": "Blue Heart  - properties section"
+        }
+    }
+}

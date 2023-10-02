@@ -1,0 +1,25 @@
+{
+    "title1": "Puesta en Escena",
+    "texto1": "La puesta en escena se trata de un Marketing específico aplicado a las viviendas en venta. El objetivo de la puesta en escena radica en destacar los puntos fuertes y mejorar los que no lo son con el de despertar el interés de los posibles interesados",
+    "imgInfo": {
+        "frontImg1": {
+            "src": "/assets/gallery/jpg/general/dm-living-room.jpg",
+            "alt": "Foto del Living de puesta en escena"
+        },
+        "frontImg2": {
+            "src": "/assets/gallery/jpg/general/dm-green-couch.jpg",
+            "alt": "Foto del Sillón verde de puesta en escena"
+        },
+        "frontImg3": {
+            "src": "/assets/gallery/jpg/general/dm-full-logo.jpg",
+            "alt": "Foto del logo completo DinsMallorca"
+        },
+        "backImg1": {
+            "src": "/assets/gallery/jpg/general/dm-big-letter-logo-2.jpg",
+            "alt": "Foto del logo completo DinsMallorca"
+        }
+    },
+    "btnText": "Saber más aquí...",
+    "texto2": "El 94% de los inmuebles intervenidos se venden en los primeros 20 días.",
+    "text3": "Somos una inmobiliaria joven y comprometida, integrada por personas maravillosas, con gran experiencia y apasionados por el asesoramiento inmobiliario.En la mayoría de los casos, la compra venta de un inmueble se convierte en una de las decisiones más importante que una persona puede tomar; es por ello que extender nuestra mano en éste proceso será la clave para garantizar la tranquilidad y satisfacción de quienes confían en nosotros"
+}

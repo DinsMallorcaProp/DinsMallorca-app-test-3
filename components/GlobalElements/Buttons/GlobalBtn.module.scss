@@ -1,0 +1,13 @@
+.green-btn {
+    background-color: var(--clr-btn-green-bg);
+    color: var(--clr-white);
+    border: 2px solid var(--clr-btn-green-border);
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.green-btn:hover {
+    background-color: var(--clr-logo-dark-green);
+    border-color: var(--clr-logo-dark-green);
+}

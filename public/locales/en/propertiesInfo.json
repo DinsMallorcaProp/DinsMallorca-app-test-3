@@ -1,0 +1,17 @@
+{
+    "title": "",
+    "text": " Do you Know...?",
+    "btn": {
+        "title": " Here ",
+        "url": "/propertiesInfo",
+        "target": "_self"
+    },
+    "leftSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-olive-branch-left.webp",
+        "alt": "Olive Plant Left Image - Information Section"
+    },
+    "rightSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-olive-branch-right.webp",
+        "alt": "Olive Plant Right Image - Information Section"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "menu.home": {
+        "name": "Home",
+        "url": "/"
+    },
+    "menu.sale": {
+        "name": "For Sale",
+        "url": "/",
+        "target": "_self"
+    },
+    "menu.buy": {
+        "name": "Buy",
+        "url": "/",
+        "target": "_self"
+    },
+    "menu.rent": {
+        "name": "Rent",
+        "url": "/",
+        "target": "_self"
+    },
+    "menu.advisor": {
+        "name": "Advisors",
+        "url": "/",
+        "target": "_self"
+    },
+    "menu.company": {
+        "name": "The company",
+        "url": "/"
+    },
+    "menu.volunteer": {
+        "name": "Volunteers",
+        "url": "/"
+    }
+}

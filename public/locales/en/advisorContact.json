@@ -1,0 +1,42 @@
+{
+    "title": "Contact Us",
+    "SuccessMsgText": "Thank you for contacting us!. Your Message has been delivered.",
+    "errorMsgText": " Oops! Something went wrong, please try again.",
+    "btnTextSend": "Send a Message",
+    "btnTextSent": "Sending Message",
+    "btnCleanInputsText": "Clear Data",
+    "backImage": {
+        "url": "/assets/gallery/jpg/general/dm-big-letter-logo-2.jpg",
+        "alg": "DinsMallarca Logo - Big Letter"
+    },
+    "fistName": {
+        "text": "First Name",
+        "placeholder": " Introduce your first name",
+        "errorMsg": "Please, Introduce 1 or more alphabetic characters.",
+        "emptyMsg": "First Name is empty."
+    },
+    "lastName": {
+        "text": "Last Name",
+        "placeholder": "Introduce your last names",
+        "errorMsg": "Please, Introduce 1 or more alphabetic characters.",
+        "emptyMsg": "Last Name is empty."
+    },
+    "phone": {
+        "text": "Phone",
+        "placeholder": "Introduce your telephone number",
+        "errorMsg": "Please, Introduce up 10 valid digits.",
+        "emptyMsg": "Phone is empty."
+    },
+    "email": {
+        "text": "Email",
+        "placeholder": "Introduce your email",
+        "errorMsg": "Please, Introduce a valid email.",
+        "emptyMsg": "Email is empty."
+    },
+    "message": {
+        "text": "Message",
+        "placeholder": "What time could we contact you?",
+        "errorMsg": "Please, Introduce valid message.",
+        "emptyMsg": "Message is empty."
+    }
+}

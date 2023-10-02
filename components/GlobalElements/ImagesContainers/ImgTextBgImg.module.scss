@@ -1,0 +1,97 @@
+.img-text-img-bg-container {
+    position: relative;
+    height: 70vh;
+    width: 98%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    & .img-title-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    & .img-text-img-bg-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        & .text-wrapper {
+            display: flex;
+            align-items: center;
+        }
+        & .img-left-wrapper {
+            width: 40%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            z-index: 10;
+            & .image-wrapper {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                & .image {
+                    width: 100%;
+                    height: auto;
+                    filter: opacity(30%);
+                    object-fit: contain;
+                }
+            }
+        }
+        & .img-right-wrapper {
+            width: 40%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            z-index: 10;
+            & .bg-image-wrapper {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                & .bg-image {
+                    width: 100%;
+                    height: auto;
+                    filter: opacity(30%);
+                    object-fit: contain;
+                    rotate: 20deg;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 620px) {
+    .img-text-img-bg-container {
+        & .img-title-wrapper {
+            & p {
+                font-size: 50%;
+            }
+        }
+        & .img-text-img-bg-wrapper {
+            display: flex;
+            flex-direction: column;
+            & .img-left-wrapper,
+            & .text-wrapper,
+            & .img-right-wrapper {
+                width: 100%;
+            }
+            & .img-left-wrapper {
+                & .image-wrapper {
+                    & .image {
+                        min-height: 400px;
+                        object-fit: cover;
+                    }
+                }
+            }
+        }
+    }
+}

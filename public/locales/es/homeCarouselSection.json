@@ -1,0 +1,28 @@
+{
+    "title": "Fotos de nuestra oficina y nuestra gente",
+    "image1": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-1.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Nuestro lugar"
+    },
+    "image2": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-2.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Somos Familia"
+    },
+    "image3": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-3.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Trabajamos juntos para brindar un mejor servicio"
+    },
+    "image4": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-4.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Nuestra oficina"
+    },
+    "image5": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-5.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Disfrutamos de nuestro trabajo junto a vos"
+    }
+}

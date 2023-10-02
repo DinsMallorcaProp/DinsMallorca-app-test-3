@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "image": "",
+      "title": "Event 1",
+      "date": "July 20, 2023'",
+      "description": "This is Event 1 description."
+    },
+    {
+      "image": "",
+      "title": "Event 2",
+      "date": "July 21, 2023'",
+      "description": "This is Event 2 description."
+    }
+  ]
+}

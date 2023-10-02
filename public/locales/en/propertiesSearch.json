@@ -1,0 +1,13 @@
+{
+    "title": "Search",
+    "text": " Where do you like to live? ",
+    "btn": {
+        "title": "Search",
+        "url": "/propertiesSearch",
+        "target": "_self"
+    },
+    "leftSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-green-doors.webp",
+        "alt": "Green Doors Image - sección de busqueda"
+    }
+}

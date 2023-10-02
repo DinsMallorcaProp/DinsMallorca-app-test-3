@@ -1,0 +1,26 @@
+.facebook-icon {
+    color: #1877f2; /* Facebook blue color */
+    font-size: 2rem; /* Adjust size as needed */
+}
+
+.instagram-icon {
+    color: #bc2a8d; /* Instagram pink color */
+    font-size: 2rem; /* Adjust size as needed */
+}
+
+.whatsapp-icon {
+    color: #25d366; /* WhatsApp green color */
+    font-size: 2rem; /* Adjust size as needed */
+}
+
+.Whatsapp-logo {
+    background-color: var(--clr-whatups-green);
+    color: var(--clr-white);
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px var(--clr-whatups-grey);
+    z-index: 100;
+    font-size: 2rem;
+    width: 40px;
+    height: 40px;
+}

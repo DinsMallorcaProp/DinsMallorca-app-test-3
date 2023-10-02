@@ -1,0 +1,42 @@
+{
+    "title": "Envíanos un mensaje",
+    "SuccessMsgText": "Gracias por confiar en nosotros! Tú mensaje ha sido enviado.",
+    "errorMsgText": "Hubo un error al envio del mensaje. Trate de vuelta.",
+    "btnTextSend": "Enviar un mensaje",
+    "btnTextSent": "Enviando Mensaje",
+    "btnCleanInputsText": "Borrar los datos",
+    "backImage": {
+        "url": "/assets/gallery/jpg/general/dm-big-letter-logo-2.jpg",
+        "alg": "Logo de DinsMallorca - Letra Grande"
+    },
+    "fistName": {
+        "text": "Nombres",
+        "placeholder": "Introduzca su nombres",
+        "errorMsg": "Por favor, ingrese 1 o más caracteres alfabéticos",
+        "emptyMsg": "Nombres es un campo vacio"
+    },
+    "lastName": {
+        "text": "Apellidos",
+        "placeholder": "Introduzca su apellidos",
+        "errorMsg": "Ingrese 1 o más caracteres alfabéticos",
+        "emptyMsg": "Apellidos es un campo vacio"
+    },
+    "phone": {
+        "text": "Teléfono",
+        "placeholder": "Introduzca su número de teléfono",
+        "errorMsg": "Por favor, ingrese hasta 10 digitos",
+        "emptyMsg": "Teléfono es un campo vacio"
+    },
+    "email": {
+        "text": "Correo",
+        "placeholder": "Introduzca su correo",
+        "errorMsg": "Por favor, ingrese un formato de correo válido",
+        "emptyMsg": "Correo es un campo vacio"
+    },
+    "message": {
+        "text": "Mensaje",
+        "placeholder": "¿En qué horario prefieres que te llamemos?",
+        "errorMsg": "Por favor, Ingrese un mensaje correcto",
+        "emptyMsg": "Mensaje es un campo vacio"
+    }
+}

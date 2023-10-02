@@ -1,0 +1,17 @@
+{
+    "title": "Vender",
+    "text": "¿ Necesitas vender tu casa ?",
+    "btn": {
+        "title": "Ayuda",
+        "url": "/propertiesSales",
+        "target": "_self"
+    },
+    "rightSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-brown-doors.webp",
+        "alt": "Imagen de la puerta marrón - sección de ventas"
+    },
+    "bgImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmmalorca-green-letter-logo.webp",
+        "alt": "Imagen de Logo DinsMallorca - sección de ventas"
+    }
+}

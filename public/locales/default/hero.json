@@ -1,0 +1,10 @@
+{
+    "heroLogo": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-logo.webp",
+        "alt": "Logo de DinsMallorca - Encabezado"
+    },
+    "heroImage": {
+        "url": "/assets/gallery/webp/dm-homepage/dinsmallorca-miquel-rossello-beach.webp",
+        "alt": "Imagen de DinsMallorca - Encabezado - Playa"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Alquilar",
+    "text": "Alquila tu casa con seguridad",
+    "btn": {
+        "title": "Alquilar",
+        "url": "/propertiesRent",
+        "target": "_self"
+    },
+    "rightSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-white-house-keys.webp",
+        "alt": "Image de Casa Blanca con Llaves - Sección de Alquiler"
+    },
+    "rightSideImgChop1": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-white-house-keys-chop-1A.webp",
+        "alt": "Image de Casa Blanca con Llaves - Sección de Alquiler"
+    },
+    "rightSideImgChop2": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-white-house-keys-chop-1B.webp",
+        "alt": "Image de Casa Blanca con Llaves - Sección de Alquiler"
+    },
+    "img1": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-green-branch.webp",
+        "alt": "Imagen de Rama Verde - Sección de Alquiler"
+    },
+    "img2": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-green-branch.webp",
+        "alt": "Imagen de Rama Verde - Sección de Alquiler"
+    }
+}

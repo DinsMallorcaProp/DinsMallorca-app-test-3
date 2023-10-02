@@ -1,0 +1,37 @@
+{
+    "mainTitle": "Our Contribution",
+    "backLogoImg": {
+        "url": "/assets/gallery/jpg/general/dm-big-letter-logo-2.jpg",
+        "alg": "DinsMallorca  Logo - Big Letter"
+    },
+    "btnText": "Know More..",
+    "mainText": "It would be useless to boast about our properties sold facing the sea, surrounded by a Mediterranean full of plastics.",
+    "subtitle": "Discover everything we have been doing over these years.",
+    "imgsInfo": {
+        "title1": "Cleaning Beaches",
+        "frontImg1": {
+            "url": "/assets/gallery/jpg/volunteers/dm-volunteers-img-1.jpg",
+            "alt": "Volunteers picture"
+        },
+        "title2": "Proposal presented to the city council",
+        "frontImg2": {
+            "url": "/assets/gallery/jpg/volunteers/dm-volunteers-img-2.jpg",
+            "alt": "Volunteers picture"
+        },
+        "title3": "The Help to the community",
+        "frontImg3": {
+            "url": "/assets/gallery/jpg/volunteers/dm-volunteers-img-3.jpg",
+            "alt": "Volunteers picture"
+        },
+        "frontRecycleImg": {
+            "url": "/assets/gallery/jpg/volunteers/dm-hand-plant.jpg",
+            "alg": " Recycle Picture"
+        },
+        "frontLogoImg": {
+            "url": "/assets/gallery/jpg/general/dm-full-logo.jpg",
+            "alg": "DinsMallorca Full Logo Picture"
+        }
+    },
+    "calendarTitle": "Community work",
+    "helpTitle": "Could you help us?:"
+}

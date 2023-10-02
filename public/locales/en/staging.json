@@ -1,0 +1,25 @@
+{
+    "title1": "Staging",
+    "texto1": "Staging is a specific Marketing applied to homes for sale. The objective of the staging lies in highlighting the strong points and improving those that are not so in order to awaken the interest of potential interested parties.",
+    "imgInfo": {
+        "frontImg1": {
+            "src": "/assets/gallery/jpg/general/dm-living-room.jpg",
+            "alt": "Staging Living Room Picture"
+        },
+        "frontImg2": {
+            "src": "/assets/gallery/jpg/general/dm-green-couch.jpg",
+            "alt": " Staging Green couch Picture"
+        },
+        "frontImg3": {
+            "src": "/assets/gallery/jpg/general/dm-full-logo.jpg",
+            "alt": "DinsMallorca Logo Picture - Full Logo"
+        },
+        "backImg1": {
+            "src": "/assets/gallery/jpg/general/dm-big-letter-logo-2.jpg",
+            "alt": "DinsMallorca Logo Picture - M big letter"
+        }
+    },
+    "btnText": "Learn more here...",
+    "texto2": "94% of the intervened properties are sold in the first 20 days.",
+    "text3": "We are a young and committed real estate agency, made up of wonderful people, with great experience and passionate about real estate advice. In most cases, the purchase and sale of a property becomes one of the most important decisions that a person can make; That is why extending our hand in this process will be the key to guaranteeing the tranquility and satisfaction of those who trust us."
+}

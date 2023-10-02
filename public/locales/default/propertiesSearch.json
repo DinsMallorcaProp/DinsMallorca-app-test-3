@@ -1,0 +1,13 @@
+{
+    "title": "Buscar",
+    "text": "¿Dónde te imaginas vivir? ",
+    "btn": {
+        "title": "Buscar",
+        "url": "/propertiesSearch",
+        "target": "_self"
+    },
+    "leftSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-green-doors.webp",
+        "alt": "Imagen de la puerta verde - sección de busqueda"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "launch": {
+        "title": "Bienvenido a Dinsmallorca inmobiliaria",
+        "text": "Falta muy poco para nuestra web.",
+        "image": {
+            "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-logo-1.webp",
+            "alt": "Imagen de DinsMallorca"
+        }
+    }
+}

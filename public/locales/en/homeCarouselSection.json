@@ -1,0 +1,28 @@
+{
+    "title": "Pictures of our office and our people",
+    "image1": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-1.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Our Place"
+    },
+    "image2": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-2.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "We are family"
+    },
+    "image3": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-3.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "We work together to provide a better service."
+    },
+    "image4": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-4.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "Our Office"
+    },
+    "image5": {
+        "url": "/assets/gallery/jpg/grid-carousel/dm-place-gallery-5.jpg",
+        "alt": "Galeria de Fotos de DinsMallorca",
+        "description": "We enjoy our work with you"
+    }
+}

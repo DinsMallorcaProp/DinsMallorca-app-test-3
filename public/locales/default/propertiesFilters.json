@@ -1,0 +1,103 @@
+{
+    "title": "Encontra tu propiedad ideal",
+    "OperationType": [
+        {
+            "name": "Compra"
+        },
+        {
+            "name": "Venta"
+        },
+        {
+            "name": "Alquiler"
+        }
+    ],
+    "beds": [
+        {
+            "value": "Ninguna"
+        },
+        {
+            "value": "Estudio"
+        },
+        {
+            "value": "1"
+        },
+        {
+            "value": "2"
+        },
+        {
+            "value": "3"
+        },
+        {
+            "value": "4"
+        },
+        {
+            "value": "5+"
+        }
+    ],
+    "baths": [
+        {
+            "value": "Ninguna"
+        },
+        {
+            "value": "1+"
+        },
+        {
+            "value": "1.5+"
+        },
+        {
+            "value": "2+"
+        },
+        {
+            "value": "3+"
+        },
+        {
+            "value": "4+"
+        }
+    ],
+    "homeType": [
+        {
+            "type": "Casa"
+        },
+        {
+            "type": "Terreno"
+        },
+        {
+            "type": "Piso"
+        },
+        {
+            "type": "Condominio"
+        },
+        {
+            "type": "Otros"
+        }
+    ],
+    "status": [
+        {
+            "type": "Viene Pronto.."
+        },
+        {
+            "type": "Activa"
+        },
+        {
+            "type": "Pendiente/Bajo contrat0"
+        },
+        {
+            "type": "Vendida"
+        }
+    ],
+    "features":[
+        {
+            "name": "pileta"
+        },
+        {
+            "name": "Garages"
+        },
+        {
+            "name": "Tiene Vista"
+        },
+        {
+            "name": "Cerca de la plata"
+        }
+    ]
+
+}

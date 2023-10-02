@@ -1,0 +1,29 @@
+{
+    "title": "Encuentra tu casa ideal",
+    "text1": "Sin perder tu tiempo ni tu dinero",
+    "text2": "¿Cómo lo haremos?",
+    "text3": " Encontramos la mejor hipoteca para ti",
+    "text4": "Visitaremos sólo las viviendas que realmente encajan contigo",
+    "text5": "Protegeremos tu compra y tu capital para garantizar tu tranquilidad",
+    "text6": "Tu asesor",
+    "btnText1": "Aqui",
+    "btnText2": "Buscar",
+    "imgsInfo": {
+        "frontImg1": {
+            "src": "/assets/gallery/jpg/general/dm-green-doors.jpg",
+            "alt": "Imagen de la puerta verde - sección de propiedades"
+        },
+        "frontImg2": {
+            "src": "/assets/gallery/jpg/general/dm-full-logo.jpg",
+            "alt": "Imagen de Logo DinsMallorca - sección de propiedadess"
+        },
+        "backImg1": {
+            "src": "/assets/gallery/jpg/general/dm-house-white-living-room.jpg",
+            "alt": "living en color blanco de una casa  - sección de propiedades"
+        },
+        "backImg2": {
+            "src": "/assets/gallery/jpg/general/dm-blue-heart.jpg",
+            "alt": "corazón azul  - sección de propiedades"
+        }
+    }
+}

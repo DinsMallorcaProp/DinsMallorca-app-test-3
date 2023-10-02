@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "type": "Casa",
+        "name": "Casa o chalet independiente en venta en calle de l'Ametler",
+        "description": "Increíble chalet pareado con terrazas y jardín en Son Veri. La vivienda cuenta con varias terrazas y azotea se ubica en la privilegiada zona de Son Veri entre el Club Náutico de El Arenal y Cala Brava.Dispone de unos 326 m2 construidos y cuatro niveles de plantas incluyendo el sótano (pre instalación para la colocación de un ascensor).En la zona exterior encontrarás una hermosa zona ajardinada y estupenda azotea que permiten disfrutar de unas vistas despejadas excelentes. En planta principal consta de un salón comedor en dos alturas, cocina con coladuria y lavandería, más un aseo de invitado. Excelente sistema de climatización por conducto y reforma completa de tuberías y electricidad.En la planta uno dispone de tres habitaciones dobles, la principal con baño en suite. Desde la planta principal se baja al sótano con trastero y dos plazas de garaje privadas.Un inmueble que cuenta con todo lo necesario para disfrutar de una vida en armonía gracias a la tranquilidad que ofrece la zona. ¿Cuándo crees que se venderá? , ¡solicita una visita! .Los datos técnicos proporcionados en éste anuncios pueden variar y no ser precisos. Para los posibles interesados disponemos de nota simple del inmueble como la máxima garantía de su descripción y estado..",
+        "descriptionList": [{ "name": "Casa o chalet independiente" }],
+        "imgsList": [
+            {
+                "url": "",
+                "alt": ""
+            }
+        ],
+        "location": {
+            "street": "Calle de l'Ametler",
+            "district": "Distrito Son Verí",
+            "neighborhood": "Llucmajor",
+            "city": "Mallorca, Balears (Illes)"
+        },
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "surface": "326 m²",
+        "price": "1.090.000 €",
+        "garage": "Garaje incluido",
+        "featuresList": [
+            { "name": "Casa o chalet independiente" },
+            { "name": "3 plantas" },
+            { "name": "326 m² construidos, 315 m² útiles" },
+            { "name": "3 baños" },
+            { "name": "Terraza" },
+            { "name": "Balcón" },
+            { "name": "Segunda mano/buen estado" },
+            { "name": "Construido en 1996" }
+        ],
+        "equipmentList": [
+            { "name": "Aire acondicionado" },
+            { "name": "Piscina" },
+            { "name": "Jardín" }
+        ],
+        "energyCertList": [
+            { "name": "Consumo: 290 kWh/m² año" },
+            { "name": "Emisiones: 91,1 kg CO2/m² año" }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Piso",
+        "name": "Casa o chalet independiente en venta en calle de l'Ametler",
+        "description": "PROPIEDAD EN EXCLUSIVA DE DINSMALLORCA INMOBILIARIA. Se vende hermoso y luminoso piso de 120 m2 en el codiciado pueblo de Valldemossa, conocido por su belleza y encanto. Cuenta con tres habitaciones, dos baños (uno en suite), amplio salón comedor(3er habitación) con acceso a un gran balcón con increíble vista a la montaña. También cuenta con un salón recibidor y un salón de descanso, que puede ser un espacio adicional para recibir a los invitados o como un área de relax. La propiedad incluye una cocina bien equipada con acceso a una espaciosa coladuría, lo cual es muy práctico para las tareas diarias. Además cuenta con una plaza de parking, lo cual es una gran ventaja en áreas donde el estacionamiento puede ser limitado. Valldemossa ofrece una combinación única de belleza natural, patrimonio cultural y una forma de vida tranquila. Si estás buscando un lugar con encanto en Mallorca, vivir aquí puede ser una excelenteelección! Los datos técnicos proporcionados en éste anuncios pueden variar y no ser precisos. Para los posibles interesados disponemos de nota simple del inmueble como la máxima garantía de su descripción y estado.",
+        "descriptionList": [{ "name": "Planta 1ª exterior sin ascensor" }],
+        "imgsList": [
+            {
+                "url": "",
+                "alt": ""
+            }
+        ],
+        "location": {
+            "street": "Avenida Palma",
+            "district": "Valldemossa",
+            "neighborhood": "",
+            "city": " Mallorca, Balears (Illes)"
+        },
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "surface": "122 m²",
+        "price": "359.000 €",
+        "garage": "Garaje incluido",
+        "featuresList": [
+            { "name": "122 m² construidos, 116 m² útiles" },
+            { "name": "3 habitaciones" },
+            { "name": "2 baños" },
+            { "name": "Plaza de garaje incluida en el precio" },
+            { "name": "Segunda mano/buen estado" },
+            { "name": "Construido en 1980" },
+            { "name": "Segunda mano/buen estado" },
+            { "name": "No dispone de calefacción" }
+        ],
+        "equipmentList": [
+            { "name": "Aire acondicionado" },
+            { "name": "Piscina" },
+            { "name": "Jardín" }
+        ],
+        "energyCertList": [
+            { "name": "Consumo: 290 kWh/m² año" },
+            { "name": "Emisiones: 91,1 kg CO2/m² año" }
+        ]
+    }
+]

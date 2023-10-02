@@ -1,0 +1,37 @@
+{
+    "mainTitle": "Nuestro aporte",
+    "backLogoImg": {
+        "url": "/assets/gallery/jpg/general/dm-big-letter-logo-2.jpg",
+        "alg": "Logo de DinsMallorca - Letra Grande"
+    },
+    "btnText": "Saber más..",
+    "mainText": "De nada serviría presumir de nuestros inmuebles vendidos frente al mar, rodeados de un mediterráneo lleno de plásticos.",
+    "subtitle": "Descubre todo lo que hacemos desde hace años",
+    "imgsInfo": {
+        "title1": "Limpieza de playas",
+        "frontImg1": {
+            "url": "/assets/gallery/jpg/volunteers/dm-volunteers-img-1.jpg",
+            "alt": "Foto de voluntariado"
+        },
+        "title2": "Propuesta presentadas al ayuntamiento",
+        "frontImg2": {
+            "url": "/assets/gallery/jpg/volunteers/dm-volunteers-img-2.jpg",
+            "alt": "Foto de voluntariado"
+        },
+        "title3": "Ayuda a la comunidad",
+        "frontImg3": {
+            "url": "/assets/gallery/jpg/volunteers/dm-volunteers-img-3.jpg",
+            "alt": "Foto de voluntariado"
+        },
+        "frontRecycleImg": {
+            "url": "/assets/gallery/jpg/volunteers/dm-hand-plant.jpg",
+            "alg": "Logo de DinsMallorca -  foto de reciclado"
+        },
+        "frontLogoImg": {
+            "url": "/assets/gallery/jpg/general/dm-full-logo.jpg",
+            "alg": "Logo de DinsMallorca - logo completo"
+        }
+    },
+    "calendarTitle": "Trabajo comunitario",
+    "helpTitle": "¿Nos ayudas?"
+}

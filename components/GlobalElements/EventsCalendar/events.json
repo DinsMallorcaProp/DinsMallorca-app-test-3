@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Recolectar basura en las playas",
+        "start": "2023-10-20T10:00:00",
+        "end": "2023-10-20T12:00:00"
+    },
+    {
+        "id": 2,
+        "title": "Recolectar basura en las calles",
+        "start": "2023-10-28T14:00:00",
+        "end": "2023-10-28T16:00:00"
+    }
+]

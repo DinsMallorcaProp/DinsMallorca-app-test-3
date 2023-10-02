@@ -1,0 +1,102 @@
+{
+    "title": "Find Your Dream property",
+    "OperationType": [
+        {
+            "name": "For Sale"
+        },
+        {
+            "name": "For Rent"
+        },
+        {
+            "name": "For buying"
+        }
+    ],
+    "beds": [
+        {
+            "value": "Any"
+        },
+        {
+            "value": "Studio"
+        },
+        {
+            "value": "1"
+        },
+        {
+            "value": "2"
+        },
+        {
+            "value": "3"
+        },
+        {
+            "value": "4"
+        },
+        {
+            "value": "5+"
+        }
+    ],
+    "baths": [
+        {
+            "value": "Any"
+        },
+        {
+            "value": "1+"
+        },
+        {
+            "value": "1.5+"
+        },
+        {
+            "value": "2+"
+        },
+        {
+            "value": "3+"
+        },
+        {
+            "value": "4+"
+        }
+    ],
+    "homeType": [
+        {
+            "type": "Home"
+        },
+        {
+            "type": "Land"
+        },
+        {
+            "type": "Apartment"
+        },
+        {
+            "type": "Condo"
+        },
+        {
+            "type": "Others"
+        }
+    ],
+    "status": [
+        {
+            "type": "Coming soon .."
+        },
+        {
+            "type": "Active"
+        },
+        {
+            "type": "Pending/Under Contract"
+        },
+        {
+            "type": "Sold"
+        }
+    ],
+    "features": [
+        {
+            "name": "Swimming Pool"
+        },
+        {
+            "name": "Garages"
+        },
+        {
+            "name": "Has View"
+        },
+        {
+            "name": "Close by beach"
+        }
+    ]
+}

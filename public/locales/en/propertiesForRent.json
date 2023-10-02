@@ -1,0 +1,29 @@
+{
+    "title": "Rent",
+    "text": "Rent Your House Safety",
+    "btn": {
+        "title": "Rent",
+        "url": "/propertiesRent",
+        "target": "_self"
+    },
+    "rightSideImg": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-white-house-keys.webp",
+        "alt": "White House with Keys - Rent Section"
+    },
+    "rightSideImgChop1": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-white-house-keys.webp",
+        "alt": "White House with Keys - Rent Section"
+    },
+    "rightSideImgChop2": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-white-house-keys-chop-1B.webp",
+        "alt": "White House with Keys - Rent Section"
+    },
+    "img1": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-green-branch.webp",
+        "alt": "Green Branch image - Rent Section"
+    },
+    "img2": {
+        "src": "/assets/gallery/webp/dm-homepage/dinsmallorca-green-branch.webp",
+        "alt": "Green Branch image - Rent Section"
+    }
+}
